@@ -1,4 +1,4 @@
 # Vislice
-Marjan Šarec
+Borut pahor 
 Ivan Vidav
 Jožef Štefan
